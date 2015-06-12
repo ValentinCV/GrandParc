@@ -1,0 +1,97 @@
+body{
+
+	background-color:#766F64;
+	font-family: ComicMS, "Arial Black", Arial, Verdana, sans-serif;
+    font-weight: bold;
+	color:white;
+	
+
+}
+#Global 
+{
+
+width:100%;
+
+
+}
+
+
+
+#entete{
+
+	background-color:#57D53B;
+
+}
+
+#colonne1{
+left :5% ;
+width:33%;
+position: absolute;
+}
+
+#colonne2{
+	
+left :40%;
+position: absolute;
+}
+#piedPage{
+
+	
+	float:left;
+	margin-top:30%;
+    width:50%;
+	
+	
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}
+
+
+#colonne3{
+	position: absolute;
+	right: 0 ;
+	width:33%;
+}
+
+input[type="submit"]{
+display:inline;
+width:75px;
+text-align:center;
+vertical-align:middle;
+background-color:#57D53B;
+margin-top:5px;
+color:white;
+text-decoration:none;
+}
+imput[type="button"]{
+display:inline;
+width:65px;
+text-align:center;
+vertical-align:middle;
+background-color:#57D53B;
+margin-top:5px;
+color:white;
+text-decoration:none;
+}
+button {
+display:inline;
+width:150px;
+text-align:center;
+vertical-align:middle;
+background-color:#57D53B;
+margin-top:5px;
+color:white;
+text-decoration:none;
+}
+
+select {
+
+   background: #57D53B;
+   color:white;
+	font-style:bold;
+font-size:15px;	
+   }
+
+
